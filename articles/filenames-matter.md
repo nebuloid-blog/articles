@@ -1,4 +1,4 @@
-~~~toml
+~~~TOML
 title = "Filenames Matter!"
 slug = "filenames-matter"
 ~~~
