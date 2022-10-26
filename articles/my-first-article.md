@@ -1,6 +1,6 @@
-~~~json
-title: "My First Article",
-slug: "my-first-article",
+~~~toml
+title: "My First Article"
+slug: "my-first-article"
 ~~~
 
 # My First Article

@@ -1,4 +1,4 @@
-~~~json
+~~~toml
 title: "Filenames Matter!"
 slug: "filenames-matter"
 ~~~
