@@ -1,4 +1,4 @@
-~~~JSON
+~~~json
 title: "My First Article",
 slug: "my-first-article",
 ~~~

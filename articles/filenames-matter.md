@@ -1,4 +1,4 @@
-~~~JSON
+~~~json
 title: "Filenames Matter!"
 slug: "filenames-matter"
 ~~~
