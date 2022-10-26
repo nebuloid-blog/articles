@@ -1,6 +1,6 @@
 ~~~toml
-title: "My First Article"
-slug: "my-first-article"
+title = "My First Article"
+slug = "my-first-article"
 ~~~
 
 # My First Article

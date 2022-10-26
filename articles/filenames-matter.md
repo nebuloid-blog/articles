@@ -1,6 +1,6 @@
 ~~~toml
-title: "Filenames Matter!"
-slug: "filenames-matter"
+title = "Filenames Matter!"
+slug = "filenames-matter"
 ~~~
 
 # Filenames Matter!
