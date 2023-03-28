@@ -1,6 +1,7 @@
 # Nebuloid Articles
 This repository contains the article files for the Nebuloid Blog.
-Rather than perusing the contents of this repo on its own, you should probably look at the main website, [nebuloid.dev](https://nebuloid.dev).
+Feel free to peruse it as you will!
+However, be sure to check out the main website, [nebuloid.dev](https://nebuloid.dev).
 The viewing experience is much better there!
 📰😁👍
 
@@ -33,12 +34,12 @@ I use a [TOML-based](https://toml.io/en/) frontmatter (denoted by `~~~`) in this
 ### Standardized Keys
 The following keys exist for articles in this repo:
 
-| Name              | Required                | Unique                  | Immutable               | Type    |
-| ----------------- | :---------------------: | :---------------------: | :---------------------: | ------- |
+| Name                | Required                | Unique                  | Immutable               | Type    |
+| ------------------- | :---------------------: | :---------------------: | :---------------------: | ------- |
 | id <sup>[1]</sup>   | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | integer |
 | slug <sup>[2]</sup> | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | string  |
-| title             | :ballot_box_with_check: |                         |                         | string  |
-| description       |                         |                         |                         | string  |
+| title               | :ballot_box_with_check: |                         |                         | string  |
+| description         |                         |                         |                         | string  |
 
 <small>
 	<sup>[1]</sup> This is immutable; the database relies upon IDs for things like comments and permalinks.<br />
